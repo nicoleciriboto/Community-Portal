@@ -26,9 +26,9 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## Getting Started?
+# Getting Started?
 
-# Installation
+## Installation
 
 # Clone the repository
 git clone <repository-url>
