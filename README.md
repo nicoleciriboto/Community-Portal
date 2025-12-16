@@ -28,16 +28,16 @@ This project is built with:
 
 # Getting Started?
 
-## Installation
+# Installation
 
-# Clone the repository
+## Clone the repository
 git clone <repository-url>
 
-# Navigate into the project
+## Navigate into the project
 cd Community-Hub-main
 
-# Install dependencies
+## Install dependencies
 npm install
 
-# Run development server
+## Run development server
 npm run dev
